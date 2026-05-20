@@ -18,15 +18,16 @@ Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolve
 ### 🚀 Projetos que me orgulho
 | Projeto | Sobre | Stack |
 | --- | --- | --- |
-| **[Nome do Projeto 1](link-do-repo)** | App de [o que faz] que consome API | `React` `Axios` |
-| **[Nome do Projeto 2](link-do-repo)** | Landing page responsiva pra cliente X | `HTML` `CSS` `JS` |
+| **[DevTrack](https://github.com/Ikifars/Dev-TrackV2)** | Site de gestão de projetos e desenvolvedores com JWT | `Python` `Flask` |
+| **[B3-Bot](https://github.com/Ikifars/b3-bot-python)** | Bot de análise do mercado financeiro em tempo real | `Python` `Pandas`  |
+| **[Meu portfólio](https://github.com/Ikifars/meu-portfolio)** | Site para exposição de portfólio e contato | `React` `HTML/CSS`  |
 
 ### 📊 Estatísticas
 > Só adicione se você tiver commits recentes. Senão, apaga essa parte.
 
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=tokyonight)
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=[ikifars]&show_icons=true&theme=tokyonight)
 
 ### 📫 Bora conversar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:[seu@email.com])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-victor-a29183234/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:[raphaelvictor016@gmail.com])
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://[seu-portfolio].vercel.app)
