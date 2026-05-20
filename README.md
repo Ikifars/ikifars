@@ -1,6 +1,6 @@
 ### E aí 👋 Me chamo Raphael
 
-Desenvolvedor [Front-end/Back-end/Full Stack] Jr | Em transição pra área tech
+Desenvolvedor Full Stack Jr | Em transição pra área tech
 
 Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolver problemas e aprender coisa nova todo dia.
 
