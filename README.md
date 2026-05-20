@@ -22,10 +22,6 @@ Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolve
 | **[B3-Bot](https://github.com/Ikifars/b3-bot-python)** | Bot de análise do mercado financeiro em tempo real | `Python` `Pandas`  |
 | **[Meu portfólio](https://github.com/Ikifars/meu-portfolio)** | Site para exposição de portfólio e contato | `React` `HTML/CSS`  |
 
-### 📊 Estatísticas
-> Só adicione se você tiver commits recentes. Senão, apaga essa parte.
-
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=[ikifars]&show_icons=true&theme=tokyonight)
 
 ### 📫 Bora conversar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-victor-a29183234/)
