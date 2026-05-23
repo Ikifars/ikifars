@@ -1,6 +1,6 @@
 ### E aí 👋 Me chamo Raphael
 
-Desenvolvedor Full Stack Jr | Em transição pra área tech
+Desenvolvedor Full Stack Jr | 👨🏾‍💻⌨️
 
 Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolver problemas e aprender coisa nova todo dia.
 
@@ -15,16 +15,13 @@ Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolve
 
 **Estudando agora:** `TypeScript` `Jest` `Next.js`
 
-🔥 **Estatísticas**
+### 🔥 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikifars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikifars&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikifars&theme=tokyonight" alt="ikifars" />
-</p>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikifars&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikifars&theme=tokyonight" />
+</div>
 
 ### 🚀 Projetos que me orgulho
 | Projeto | Sobre | Stack |
