@@ -22,6 +22,7 @@ Desenvolvendo projetos com foco em código limpo e boas práticas. Curto resolve
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikifars&theme=tokyonight" />
 </div>
+![snake gif](https://github.com/seuuser/seuuser/blob/output/github-contribution-grid-snake.svg)
 
 ### 🚀 Projetos que me orgulho
 | Projeto | Sobre | Stack |
